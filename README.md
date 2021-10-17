@@ -23,7 +23,6 @@ For detailed instructions, see "tutorial_of_NOBITA.docx".
     pip install Pillow
     ```
 
-    - Run NOBITA/nobita.py. The first screen will be displayed.
 
  
 # Usage
