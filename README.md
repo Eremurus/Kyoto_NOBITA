@@ -35,6 +35,7 @@ For detailed instructions, see "tutorial_of_NOBITA.docx".
     Type the following command.
 ```bash
 git clone https://github.com/igemsoftware2021/Kyoto_NOBITA.git
+cd Kyoto_NOBITA
 cd NOBITA
 python3 nobita.py
 ```
